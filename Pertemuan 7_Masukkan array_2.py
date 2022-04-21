@@ -5,11 +5,10 @@ arr = array('i',[])
 def isiArray(x):
     j = 1
     while j <= x:
-        baca = int(input('Angka ke['+str(j)+'] = '))
-        arr.insert(j,baca)
+        arr.append(int(input("Masukkan angka baru: ")))
         j += 1
         print()
-        print('Hasil masukan angka')
+        print('Hasil masukkan angka: ')
         print(arr,'', end='')
               
 if __name__ == '__main__':
