@@ -13,3 +13,17 @@ class Stack:
         
     def peek(self):
         return self.stack[-1]
+    
+if __name__ == '__main__':
+    Tumpukan = Stack()
+    Tumpukan.add("Senin")
+    Tumpukan.add("Selasa")
+    Tumpukan.peek()
+    print(Tumpukan.peek())
+    Tumpukan.add("Rabu")
+    Tumpukan.add("Kamis")
+    print(Tumpukan.peek())
+    Tumpukan.add("Jumat")
+    Tumpukan.add("Sabtu")
+    print(Tumpukan.peek())
+quit()
