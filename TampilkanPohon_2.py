@@ -29,8 +29,7 @@ class Node:
             
             
 if __name__ == '__main__':
-        print('=========================\nDemo Program Binary Tree')
-        print('=========================')
+        print('=========================\nDemo Program Binary Tree\n=========================')
         n = int(input('Masukkan banyaknya data: '))
         Akar = Node(n)
         for x in range(0,n):
