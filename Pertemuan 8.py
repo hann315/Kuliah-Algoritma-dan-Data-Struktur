@@ -1,11 +1,10 @@
-...
+"""
 Nama berkas: Pretemuan 8.py
 Tujuan : Buat list untuk menambah data
 Penterjemah : Python 3.7.9
 Pemrogram: Faisal A. F. Rahman
 
-...
-
+"""
 
 def main():
     list1 = [10, 20, 30]
