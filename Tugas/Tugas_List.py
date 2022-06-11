@@ -1,6 +1,6 @@
 """
 Pemrogram: Faisal A. F. Rahman
-NIM: 2130511027
+NIM: 21***11027
 Nama berkas: Tugas_List.py
 Tujuan : Membuat list untuk menambah data, dan mencari data
 Interpreter : Python 3.10.4
@@ -9,7 +9,7 @@ Operating System: Windows 11
 """
 
 print('Nama: Faisal A. F. Rahman')
-print('NIM: 2130511027\n')
+print('NIM: 21***11027\n')
 
 print('=' * 60, '\n')
 
